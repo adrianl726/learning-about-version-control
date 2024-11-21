@@ -1,1 +1,4 @@
-# learning-about-version-control
+# Learninga About Version Control
+
+## Author
+Adrian Leung
